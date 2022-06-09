@@ -1,7 +1,7 @@
 {
     "name": "Knight Table",
     "description": "Defender against Flash Loan attacks, protector of #Defi protocols. Helping keep the smart contract kingdom secure, reliable, and safe. ",
-    "image": "https://github.com/zhubuz/web3.github.io/blob/gh-pages/test_table.jpg",
+    "image": "https://raw.githubusercontent.com/zhubuz/web3.github.io/gh-pages/test_table.jpg",
     "attributes": [
         {
             "trait_type": "Strength",
