@@ -1,0 +1,20 @@
+{
+    "name": "SHIBA",
+    "description": "everyone loves",
+    "image": "https://raw.githubusercontent.com/zhubuz/web3.github.io/gh-pages/SHIBA.png",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 999
+        },
+       
+        {
+            "trait_type": "Level",
+            "value": 999
+        },
+        {
+            "trait_type": "Experience",
+            "value": 999
+        }
+    ]
+}
