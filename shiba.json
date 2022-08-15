@@ -5,16 +5,16 @@
     "attributes": [
         {
             "trait_type": "Strength",
-            "value": 999
+            "value": "SR"
         },
        
         {
             "trait_type": "Level",
-            "value": 999
+            "value": "SR"
         },
         {
             "trait_type": "Experience",
-            "value": 999
+            "value": "SR"
         }
     ]
 }
