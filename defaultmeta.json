@@ -1,0 +1,36 @@
+{
+    "name": "DID",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/zhubuz/web3.github.io/gh-pages/default_icon.png",
+    "attributes": [
+        {
+            "trait_type": "社区来源",
+            "value": "RR"
+        },
+       
+        {
+            "trait_type": "关联账号",
+            "value": "SR"
+        },
+        {
+            "trait_type": "曾贡献值",
+            "value": "0x19283200"
+        },
+            {
+            "trait_type": "推特",
+            "value": "xxx"
+        },
+              {
+            "trait_type": "discord",
+            "value": "xxxx"
+        },
+              {
+            "trait_type": "telegram",
+            "value": "xxxx"
+        },
+              {
+            "trait_type": "instagram",
+            "value": "xxxx"
+        },
+    ]
+}
