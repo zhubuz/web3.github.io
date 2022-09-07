@@ -1,7 +1,7 @@
 {
   "name": "AMB-Token",
   "description": "NutsDAO社区组织专属推广代表",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/zhubuz/web3.github.io/gh-pages/SHIBA.png",
   "attributes": [
     {
       "trait_type": "SSR验证人",
