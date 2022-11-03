@@ -1,0 +1,11 @@
+{
+  "name": "poker box",
+  "description": "cyber poker mistery box",
+  "image": "https://raw.githubusercontent.com/zhubuz/web3.github.io/gh-pages/mistery.jpg",
+  "attributes": [
+    {
+      "trait_type": "mistery box",
+      "value": ""
+    }
+  ]
+}
