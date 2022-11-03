@@ -1,14 +1,14 @@
 {
-  "name": "AMB-Token",
-  "description": "NutsDAO社区组织专属推广代表",
+  "name": "cypoker icon",
+  "description": "cypoker ocpn NFT",
   "image": "https://raw.githubusercontent.com/zhubuz/web3.github.io/gh-pages/SHIBA.png",
   "attributes": [
     {
-      "trait_type": "SSR验证人",
+      "trait_type": "",
       "value": ""
     },
     {
-      "trait_type": "DAO社区节点关系",
+      "trait_type": "",
       "value": ""
     }
   ]
